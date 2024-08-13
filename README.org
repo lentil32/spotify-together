@@ -1,0 +1,13 @@
+* WIP: Spotify Together - Better Jam without Hassles
+** Object
+- No stuttering when playing together
+- Minimal dependency
+- Multi-users
+** Tasks
+- [X] Mock DB in `db.json` and `db.go`
+- [X] Sync player state
+- [ ] INPROGRESS: Login system
+- [ ] TODO: Use WebSocket to check/populate client state
+** References
+- Web API | Spotify for Developers
+https://developer.spotify.com/documentation/web-api
